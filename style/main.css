@@ -326,15 +326,15 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/caltech.png');
+    background: #fff url('../img/test.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/stanford.png');
+    background: #fff url('../img/test.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/uc.png');
+    background: #fff url('../img/test.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
     background: #fff url('../img/uchicago.png');

@@ -334,13 +334,13 @@ hr {
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/test.png');
+    background: #fff url('../img/elon.png');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/uchicago.png');
+    background: #fff url('../img/bongocat.png');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/upenn.png');
+    background: #fff url('../img/knuckles.png');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
     background: #fff url('../img/princeton.png');

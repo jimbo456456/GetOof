@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #F00A32;
   margin: 0;
   display: block;
   float: left; }
@@ -108,7 +108,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #F00A32;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }

@@ -362,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/yale.png');
+    background: #fff url('../img/Shaggy.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/harvard.png');
+    background: #fff url('../img/RobbieRotten.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -378,7 +378,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/mit.jpg');
+    background: #fff url('../img/oof.png');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }

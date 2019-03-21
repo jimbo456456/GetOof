@@ -79,7 +79,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #00000; }
+    color: #000000; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
@@ -233,7 +233,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: #C2C0BF; }
+  background: #000000; }
   .grid-cell:last-child {
     margin-right: 0; }
 
@@ -320,7 +320,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da;
+    background: #707070;
     text-align: center;
     font-weight: bold;
     z-index: 10;

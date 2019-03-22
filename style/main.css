@@ -233,7 +233,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: #000000; }
+  background: #505050; }
   .grid-cell:last-child {
     margin-right: 0; }
 
@@ -320,7 +320,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #707070;
+    background: #000000;
     text-align: center;
     font-weight: bold;
     z-index: 10;

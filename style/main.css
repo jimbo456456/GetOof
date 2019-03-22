@@ -60,7 +60,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: ##323232;
+  background: #323232;
   padding: 15px 25px;
   font-size: 20px;
   height: 25px;
